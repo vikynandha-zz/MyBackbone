@@ -1,0 +1,12 @@
+[submodule "backbone.marionette"]
+	path = backbone.marionette
+	url = https://github.com/marionettejs/backbone.marionette.git
+[submodule "backbone.syphon"]
+	path = backbone.syphon
+	url = https://github.com/derickbailey/backbone.syphon.git
+[submodule "backbone"]
+	path = backbone
+	url = https://github.com/jashkenas/backbone.git
+[submodule "underscore"]
+	path = underscore
+	url = https://github.com/jashkenas/underscore.git
